@@ -1,7 +1,9 @@
-# # Hi there, I'm [Mona]! 👋
+# # Hi there, I'm [Mona]! 👋![funimg](https://github.com/user-attachments/assets/dad552b3-1ffb-4316-9b14-974b4a64ab3e)
 
-![B![![funimg](https://github.com/user-attachments/assets/d53e0fc9-a13e-490c-86d5-3f2b5609f033)
-](https://github.com/user-attachments/assets/19eaa984-d153-4a98-ad1b-efadb88dd400)
+
+![B![![Uploading funimg.png…]()
+](https://github.com/user-attachments/assets/d53e0fc9-a13e-490c-86d5-3f2b5609f033)
+
 ](your_banner_image_url_here)
 
 ## About Me 🚀
