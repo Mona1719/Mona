@@ -1,4 +1,4 @@
-# # Hi there, I'm [Mona]! 👋![funimg](https://github.com/user-attachments/assets/dad552b3-1ffb-4316-9b14-974b4a64ab3e)
+# # Hi there, I'm [Mona]! 👋
 
 
 ![B![![Uploading funimg.png…]()
